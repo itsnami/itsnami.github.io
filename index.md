@@ -1,3 +1,5 @@
-list of projects
+# list of projects
 
-[view sysmon project](THM_Labs/sysmon.md)
+## Sysmon
+
+[Hunting MetaSpolit](THM_Labs/sysmon/hunting_metasploit.md)
